@@ -1,1 +1,1 @@
-# Python-Project
+A bot in Python is an automated system designed to interact with users and provide answers to frequently asked questions in real-time. Using natural language processing (NLP) techniques, the bot can understand user queries, search a predefined FAQ database, and return the most relevant responses. 
